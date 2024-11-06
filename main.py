@@ -10,8 +10,10 @@ with col1:
 with col2:
     st.title("Dave Cooper")
     content = """
-    I am a software tester with a passion for learning.
-    """
+    I am a veteran QA leader with a passion for learning 
+    and delivering industry standard quality control measures. 
+    Currently I am studying to become a Python developer 
+    with great portfolio of projects to showcase in this web app"""
     st.info(content)
 
 content2 = """
